@@ -1,0 +1,177 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+.Adv{
+    color: rgb(238, 66, 66);
+    font-size: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+h1{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+    font-family: 'Radio Canada', sans-serif;
+}
+.submain h2{
+    color: azure;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    font-family: 'Radio Canada', sans-serif;
+}
+.flexnav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+header nav{
+    background-color: rgb(32, 42, 54);
+    padding: 1rem;
+}
+.NAV{
+    list-style-type: none;
+    margin: 0.7em;
+    background-color: rgb(32, 42, 54);
+    height: 5rem;
+}
+.NAV li{
+    display: inline-block;
+    margin: 0.7rem;
+    position: relative;
+
+}
+ul ul{
+    position: absolute;
+    display: none;
+}
+
+ul ul li{
+    display: block;
+}
+ul li:hover ul{
+display: block;
+background-color: rgb(32, 42, 54);
+border-radius: 2%;
+}
+.NAV li a{
+    color: aliceblue;
+    margin: 1rem;
+    font-family: 'Radio Canada', sans-serif;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.NAV a h2{
+color: rgb(190, 224, 253);
+margin: 1rem;
+font-family: 'Radio Canada', sans-serif;
+}
+
+.NAV li a:hover{
+    color: rgb(211, 214, 255);
+}
+
+.NAV  a h2{
+    color: rgb(190, 224, 253);
+    margin: 1rem;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.NAV h2:hover{
+    color: #ac0078;
+}
+
+main{
+    background-image: url(/images/BackGround.jpg);
+    background-size: cover;
+}
+.submain{
+background-color: rgb(111, 194, 176);
+text-align: center;
+}
+.KCOLOR h2{
+    color: rgb(23, 30, 49);
+    margin: 1rem;
+    text-align: center;
+    font-family: 'Radio Canada', sans-serif;
+}
+.KCOLOR p{
+    color: rgb(23, 30, 49);
+    margin: 1rem;
+    text-align: center;
+    font-family: 'Radio Canada', sans-serif;
+}
+.KCOLOR a{
+    color: rgb(23, 30, 49);
+    font-family: 'Radio Canada', sans-serif;
+}
+ul li{
+    list-style: none;
+    padding: 1rem;
+}
+
+.caja{
+    width: 15rem;
+    height: 15rem;
+    margin: 2rem;
+    display: inline-block;
+}
+
+.red{
+    background-color: rgb(206, 26, 26);
+    border-radius: 100%;
+    position: relative;
+    top: 0.2rem;
+    right: 1rem ;
+}
+.green{
+    background-color: rgb(26, 206, 35);
+    position: relative;
+    top: 1rem;
+    left: 2rem;
+    border-radius: 100%;
+}
+.blue{
+    background-color: rgb(53, 26, 206);
+    border-radius: 100%;
+    position: relative;
+    top: 0.5rem;
+    left: 3rem;
+    border-radius: 100%;
+}
+.yellow{
+    background-color: rgb(250, 246, 0);
+    position: fixed;
+    bottom: 0%;
+    right: 0%;
+    border-radius: 100%;
+    width: 5rem;
+    height: 5rem;
+} 
+
+footer{   
+    background-color: #000000;
+    background-image: linear-gradient(315deg, #603d74 0%, #000000 74%);
+    text-align: center;
+}
+footer h4{
+    color: aliceblue;
+    padding: 1rem;
+    font-family: 'Radio Canada', sans-serif;
+}
+footer nav ul li a{
+    color: aliceblue;
+    font-family: 'Radio Canada', sans-serif;
+    text-decoration: none;
+}

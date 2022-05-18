@@ -1,0 +1,117 @@
+<!DOCTYPE html> <!--Clase 3-->
+<html>
+    <head lang="es">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Practica</title>
+
+    </head>
+<!--Listas-->
+<body>
+    <header> <!--NAV-->
+        <nav>
+            <ul>
+                <li><a href="/index.html"><img src="/images/favicon-32x32.png" alt=""></a></li>
+                <li><a href="listas.html">Listas</a></li>
+                <li><a href="tablas.html">Tablas</a></li>
+                <li><a href="fromulario.html">Formulario</a></li>
+                <li><a href="galeria.html">Galleria</a></li>
+                <li><a href="claseaffter.html">After Class 2</a></li>
+                <li><a href="enlaces.html">Enlaces</a></li>
+                <li><a href="multimedia.html">Multimedia</a></li>
+                <li><a href="homecss.html">CSS</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main> <!--Fromularios-->
+        <fieldset> <!--Los br no tienen que usarse, se da esatilo con CSS-->
+            <legend>Formulario de contacto</legend>
+            <form action="">
+                <div>
+                    <label for="nombre">Nombre/s</label>
+                    <input type="text" name="nombre" placeholder="Tu/s nombre/s">
+                </div><br>
+                <div>
+                    <label for="apellido">Apellido/s </label>
+                    <input type="text" name="apellido" placeholder="Tu/s apellido/s">
+                </div><br>
+                <div>
+                    <label for="email">Mail de contacto</label>
+                    <input type="email" name="email" required>
+                </div><br>
+                <div>
+                    <label for="password">Contraseña</label>
+                    <input type="password" name="password">
+                </div><br>
+                <div>
+                    <label for="areadetexto">Sobre ti</label><br>
+                    <textarea name="areadetexto" id="" cols="30" rows="10" placeholder="Contanos mas sobre vos!!"></textarea>
+                </div><br>
+                <div>
+                    <label for="gender">Genero</label><br>
+                    <input type="radio" name="gender" value="hombre">Hombre
+                    <input type="radio" name="gender" value="mujer">Mujer
+                    <input type="radio" name="gender" value="otro">Otro
+                </div><br>
+                <div>
+                    <label for="pais">Seleciona tu nacionalidad</label><br>
+                    <select name="pais" id="">
+                        <option value="arg">Argentina</option>
+                        <option value="ita">Italia</option>
+                        <option value="ruma">Rumania</option>
+                    </select>
+                </div><br>
+                <div>
+                    <label for="birth">Fecha de nacimeinto</label><br>
+                    <input type="date" name="birth">
+                </div><br>
+                <div> <!--caniuse.com para ver compatibilidad-->
+                    <label for="color">Color Favorito</label><br>
+                    <input type="color" name="color">
+                </div><br>
+                <div>
+                    <label for="condiciones">Acepta terminos y condiciones</label><br>
+                    <input type="checkbox" name="condiciones" value="1">
+                </div><br>
+                <div>
+                    <input type="submit" value="Enviar">
+                    <input type="reset" value="Reset">
+                </div><br>
+
+            </form>
+        </fieldset>
+    </main>
+<footer> <!--Ejercicio-->
+    <fieldset>
+        <legend>Informacion Personal:</legend>
+        <div>
+            <label for="gender">Genero</label><br>
+            <input type="radio" name="gender" value="hombre">Hombre
+            <input type="radio" name="gender" value="mujer">Mujer
+            <input type="radio" name="gender" value="otro">Otro
+        </div><br>
+        <div>
+            <label for="nombre">Nombre/s</label>
+            <input type="text" name="nombre" placeholder="Tu/s nombre/s">
+        </div><br>
+        <div>
+            <label for="apellido">Apellido/s </label>
+            <input type="text" name="apellido" placeholder="Tu/s apellido/s">
+        </div><br>
+        <div>
+            <label for="talle">Talle</label><br>
+            <select name="talle" id="">
+                <option value="L">Large</option>
+                <option value="M">Midium</option>
+                <option value="S">Small</option>
+            </select>
+        </div><br>
+        <div>
+            <input type="submit" value="Enviar">
+        </div><br>
+
+    </fieldset>
+</footer>
+</body>
+</html>
