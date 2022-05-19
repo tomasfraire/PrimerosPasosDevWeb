@@ -9,7 +9,7 @@ En youtube (Español): https://www.youtube.com/playlist?list=PLfWyZ8S-XzecAttp3Q
 
 FILO = First In Last Out
 
-La forma en la cual JavaScript recorre o ejecuta lso datos es por medio de una pila, y como en la vida cotidiana apilamos libros o platos, sabemos muy bein que el primero qu ese pone es el ultimoque se va a sacar, si tengo tres libros rojo, amarillo y azul y los coloco de la siguiente forma:
+La forma en la cual JavaScript recorre o ejecuta los datos es por medio de una pila, y como en la vida cotidiana apilamos libros o platos, sabemos muy bein que el primero qu ese pone es el ultimoque se va a sacar, si tengo tres libros rojo, amarillo y azul y los coloco de la siguiente forma:
 
 Apoyo el azul sobre la mesa, al azul le apilo el rojo y a este mismo le apilo el amarillo. para obtener el azul debo retirar el amarillo, luego el rojo y recien ahi obtengo el azul. 
 
