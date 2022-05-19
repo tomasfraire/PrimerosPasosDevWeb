@@ -35,9 +35,32 @@ Expressions statement
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Me vi y realice este video = https://www.youtube.com/watch?v=8GTaO9XhA5M
+termino el dia con un repaso de todo lo visto y aun mas conceptos:
 
-Me vi esta lista de reproducion = https://www.youtube.com/playlist?list=PLfWyZ8S-XzecAttp3QU-gBBXvMqEZTQXB
+Repaso logica de programacion: https://www.youtube.com/watch?v=as1opL254NA&list=PLeOf1XfBcT4lwk3un4EN9-akxXOVKtbtG
+
+33 conceptos que todo desarollador debe conocer: https://github.com/leonardomso/33-js-concepts
+
+Repaso JavaScript: https://www.youtube.com/watch?v=8GTaO9XhA5M
+
+Mas de JavaScript: https://www.youtube.com/playlist?list=PLfWyZ8S-XzecAttp3QU-gBBXvMqEZTQXB
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Dia 2 en Soy Henry
+
+Introducción a Javascript 
+
+Variables | var | let | const (se hablo tambien de console.log)
+
+Strings, Numbers y Booleanos (Tipos de datos)
+
+Math | Operadores | Objetos Globales y métodos 
+
+Introducción a las Funciones
+
+Control de flujo y operadores de comparación
+
+Introducción a Node y NPM
+
+Al final del dia realice la homework que se nos dio se puede ver una copia de la misma en la carpeta "SoyHenryPre"
