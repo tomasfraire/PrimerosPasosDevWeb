@@ -13,33 +13,6 @@ La forma en la cual JavaScript recorre o ejecuta lso datos es por medio de una p
 
 Apoyo el azul sobre la mesa, al azul le apilo el rojo y a este mismo le apilo el amarillo. para obtener el azul debo retirar el amarillo, luego el rojo y recien ahi obtengo el azul. 
 
-Codigo de la cocina del codigo para entender este funcionamiento en practica con la consola de chorme:
-
-const cortar = (ingrediente) => {
-    console.log('Cortar ' + ingrediente);
-}
-
-function mezclarIngredientes(n) {
-    if (n <= 0) return;
-
-    console.log('Mezclar #' + n);
-    mezclarIngredientes(n - 1);
-}
-
-function comer() {
-    console.log('Comer');
-}
-
-function hacerEnsaladaMixta() {
-    cortar('tomate');
-    cortar('lechuga');
-    cortar('cebolla');
-    mezclarIngredientes(5);
-    comer();
-}
-
-hacerEnsaladaMixta();
-
 Esto tambien nos sirve para econtrar errores, rastrearlos como un mapa, nuestro mapa es la pila. A esto se le conoce como STACKTRACE, que es la secuencia de llamadas que se fueron dando durante la ejecucion del progrmaa hasta que sucedio una excepcion o un error inesperado. INFOMRACION UTIL PARA ENCONTRAR BUGS EN EL CODIGO.
 
 lo que se apila es un Frame o Resgistro que contiene a la funcion, el contexto de ejecucion, el nombre del archivo al que pertenece y el numero de la proxima linea a ejecutar.
