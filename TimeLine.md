@@ -84,8 +84,7 @@ Lectura anexa que nos proporciono henry que repasa los visto en JSI Y JSII
 
 What exactly is the 'arguments' object in JS?: https://www.youtube.com/watch?v=GfXqvsBSkzs
 
-Objeto Arguments - JavaScript: la guía completa: 17. Objeto Arguments - JavaScript: la guía completa
-
+Objeto Arguments - JavaScript: la guía completa: https://www.youtube.com/watch?v=NcxcFUOJWg0
 Ciclos en JavaScript {for, while, do .. while} 👍🏻: https://www.youtube.com/watch?v=v7Iqs_TReLM
 
 
