@@ -51,9 +51,13 @@ Dia 2 en Soy Henry
 
 Introducción a Javascript 
 
+Introducción a Node y NPM
+
 Variables | var | let | const (se hablo tambien de console.log)
 
 Strings, Numbers y Booleanos (Tipos de datos)
+
+Undfefined y null
 
 Math | Operadores | Objetos Globales y métodos 
 
@@ -61,6 +65,29 @@ Introducción a las Funciones
 
 Control de flujo y operadores de comparación
 
-Introducción a Node y NPM
+Veracidad
 
-Al final del dia realice la homework que se nos dio se puede ver una copia de la misma en la carpeta "SoyHenryPre"
+Operadores logicos && || !
+
+bucles for | while
+
+Se hablo de la importancia del ingles.
+
+Al final del dia realice la homework JSI y JSII se puede ver una copia de la misma en la carpeta 
+"SoyHenryPre"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+termino el dia con un repaso de todo lo visto y aun mas conceptos:
+
+Lectura anexa que nos proporciono henry que repasa los visto en JSI Y JSII
+
+What exactly is the 'arguments' object in JS?: https://www.youtube.com/watch?v=GfXqvsBSkzs
+
+Objeto Arguments - JavaScript: la guía completa: 17. Objeto Arguments - JavaScript: la guía completa
+
+Ciclos en JavaScript {for, while, do .. while} 👍🏻: https://www.youtube.com/watch?v=v7Iqs_TReLM
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dia 3 en soy henry
