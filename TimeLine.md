@@ -5,7 +5,7 @@ Curso de dalto HTML y CSS y Curso de Desarollo Web en CoderHouse
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dia 1 en Soy Henry
+Dia 1 en Soy Henry (intro al curso, git y github, conceptos principales de JS y logia de progrmacion)
 
 Expressions vs Statements
 
@@ -47,7 +47,7 @@ Mas de JavaScript: https://www.youtube.com/playlist?list=PLfWyZ8S-XzecAttp3QU-gB
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dia 2 en Soy Henry
+Dia 2 en Soy Henry (Intriducion a JS)
 
 Introducción a Javascript 
 
@@ -69,7 +69,9 @@ Veracidad
 
 Operadores logicos && || !
 
-bucles for | while
+bucles for | while | while do | switch
+
+Arguments
 
 Se hablo de la importancia del ingles.
 
@@ -85,8 +87,10 @@ Lectura anexa que nos proporciono henry que repasa los visto en JSI Y JSII
 What exactly is the 'arguments' object in JS?: https://www.youtube.com/watch?v=GfXqvsBSkzs
 
 Objeto Arguments - JavaScript: la guía completa: https://www.youtube.com/watch?v=NcxcFUOJWg0
+
 Ciclos en JavaScript {for, while, do .. while} 👍🏻: https://www.youtube.com/watch?v=v7Iqs_TReLM
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Dia 3 en soy henry
+Dia 3 en soy henry (continuacion de bucles y arrays, Objetos)
+
