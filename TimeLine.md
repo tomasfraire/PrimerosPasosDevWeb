@@ -5,33 +5,32 @@ Curso de dalto HTML y CSS y Curso de Desarollo Web en CoderHouse
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dia 1 en Soy Henry (intro al curso, git y github, conceptos principales de JS y logia de progrmacion)
+# Dia 1 en Soy Henry (intro al curso, git y github, conceptos principales de JS y logia de progrmacion)
 
-Expressions vs Statements
+* Expressions vs Statements
 
-Expressions
+* Expressions
 
 Siempre retorna algo
 
 
-Aritmeticas (valor numerico)| Strings (valor string)| Logicas (valor booleano)| Primarias (expression sin operador, variables) | asignacion (a = b) | side effects (++a | ++a | a += b| a *= b | varios mas)
+* Aritmeticas (valor numerico)| Strings (valor string)| Logicas (valor booleano)| Primarias (expression sin operador, variables) | asignacion (a = b) | side effects (++a | ++a | a += b| a *= b | varios mas)
 
 
-Statements
+* Statements
 
 Realiza una accion
 
 
-Declaration Statements (var - function)
+* Declaration Statements (var - function)
 
-Funcion expressions vs function declaration
+* Funcion expressions vs function declaration
 
-Conditional Statement (if - else - else if)
+* Conditional Statement (if - else - else if)
 
-Loops (bucles) y Jumps (saltos) (while - for)
+* Loops (bucles) y Jumps (saltos) (while - for)
 
-
-Expressions statement
+* Expressions statement
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,35 +46,35 @@ Mas de JavaScript: https://www.youtube.com/playlist?list=PLfWyZ8S-XzecAttp3QU-gB
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dia 2 en Soy Henry (Intriducion a JS)
+# Dia 2 en Soy Henry (Intriducion a JS)
 
-Introducción a Javascript 
+* Introducción a Javascript 
 
-Introducción a Node y NPM
+* Introducción a Node y NPM
 
-Variables | var | let | const (se hablo tambien de console.log)
+* Variables | var | let | const (se hablo tambien de console.log)
 
-Strings, Numbers y Booleanos (Tipos de datos)
+* Strings, Numbers y Booleanos (Tipos de datos)
 
-Undfefined y null
+* Undfefined y null
 
-Math | Operadores | Objetos Globales y métodos 
+* Math | Operadores | Objetos Globales y métodos 
 
-Introducción a las Funciones
+* Introducción a las Funciones
 
-if...else
+* if...else
 
-Control de flujo y operadores de comparación
+* Control de flujo y operadores de comparación
 
-Veracidad
+* Veracidad
 
-Operadores logicos && || !
+* Operadores logicos && || !
 
-bucles for | while 
+* bucles for | while 
 
-Arguments
+* Arguments
 
-Se hablo de la importancia del ingles.
+* Se hablo de la importancia del ingles, el DRY CODE y la importancia de un codigo prolijo.
 
 Al final del dia realice la homework JSI y JSII se puede ver una copia de la misma en la carpeta 
 "SoyHenryPre"
@@ -94,38 +93,36 @@ Ciclos en JavaScript {for, while, do .. while} 👍🏻: https://www.youtube.com
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Dia 3 en soy henry (continuacion de bucles y arrays, Objetos)
+# Dia 3 parte 1 en soy henry (continuacion de bucles y arrays)
 
-Arrays (Arreglos)
+* Arrays (Arreglos)
 
-.length
+* .length
 
-.push | .pop
+* .push | .pop
 
-.unshift y shift
+* .unshift y shift
 
-switch | do...while
+* switch | do...while
 
-Expressions and operators
+* Expressions and operators
 
-.join 
+* .join 
 
-.toString
+* .toString
 
-.charAt
+* .charAt
 
-break & continue
+* break & continue
 
-.includes
+* .includes
 
-reduce
-
-Al final del dia realice la homework JSI y JSII se puede ver una copia de la misma en la carpeta 
+Al final del dia realice la homework JSIII se puede ver una copia de la misma en la carpeta 
 "SoyHenryPre"
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-termino el dia con un repaso de todo lo visto y aun mas conceptos:
+termino el dia con un repaso de todo lo visto y aun mas conceptos, algunso los reveo con disitntas personas e idiomas para aasegurarme que lo entiendo:
 
 Lectura anexa que nos proporciono henry que repasa los visto en JSIII Y JSIV
 
@@ -163,11 +160,84 @@ String Method .charAt() and Index | JavaScript in less-than 3 minutes | JavaScri
 
 Curso JavaScript: 17. break & continue: https://www.youtube.com/watch?v=iv-f163m78A
 
+JavaScript Includes - Comprobar si un elemento existe dentro de un array en Javascript: https://www.youtube.com/watch?v=dPpG7Reesos
+
+includes Array Method | JavaScript Tutorial: https://www.youtube.com/watch?v=ZHsPVhkTUDg
+
+7 MÉTODOS DE ARRAYS en JAVASCRIPT QUE DEBES CONOCER: https://www.youtube.com/watch?v=5yPf74sCu2k
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Dia 3 parte 2 en soy henry (Objetos)
+
+* Repaso Array
+
+* Introducion a objetos, que son y para que sirven.
+
+* como asignar y agregar propiedades a los objetos
+
+* BracketNotation(acepta variables = objeto['propiedad'])  &  DotNotation(facil de escribir y es especifica = objeto.propiedad)
+
+* elimiran propiedad (delete objeto.propiedad)
+
+* This (key word) this.n | execution context
+
+* Objeto Global 
+
+* metodos
+
+* blucles for...in
+
+
+Al final del dia realice la homework JSIV se puede ver una copia de la misma en la carpeta 
+"SoyHenryPre"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+termino el dia con un repaso de todo lo visto y aun mas conceptos, algunso los reveo con disitntas personas e idiomas para aasegurarme que lo entiendo:
+
+Lectura anexa que nos proporciono henry que repasa los visto en JSIV
+
+Object: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+this: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/this
+
+for...in: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/for...in
+
+15 THIS EN JAVASCRIPT (bind, call, apply y más) https://www.youtube.com/watch?v=bS71_W_BDFE
+
+Recorridos a las propiedades de objetos Javascript. Bucle for...in https://www.youtube.com/watch?v=a7b4S9Zk65w
+
+Varios videos de esta lista de reprofucion: https://www.youtube.com/playlist?list=PL3aEngjGbYhnxiyLvZD3sy1sjdiNJETW8
+
+Curso JavaScript: 12. Objetos https://www.youtube.com/watch?v=4xig5UPRC00
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Dia 4 en soy henry (Clases y Prototype & Callbacks)
+
+Al final del dia realice la homework JSV y JSVI se puede ver una copia de la misma en la carpeta 
+"SoyHenryPre"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+termino el dia con un repaso de todo lo visto y aun mas conceptos, algunso los reveo con disitntas personas e idiomas para aasegurarme que lo entiendo:
+
+Lectura anexa que nos proporciono henry que repasa los visto en JSV y JSVI
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Dia 5 en soy henry (HTML Y CSS)
 
 
 
+Al final del dia realice la homework CSS se puede ver una copia de la misma en la carpeta 
+"SoyHenryPre"
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+termino el dia con un repaso de todo lo visto y aun mas conceptos, algunso los reveo con disitntas personas e idiomas para aasegurarme que lo entiendo:
 
+ademas en este dia, pude repasar lo visto en Coderhouse y en el curso de soy dalto.
+
+Lectura anexa que nos proporciono henry que repasa los visto en HTML y CSS
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
