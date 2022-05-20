@@ -122,13 +122,14 @@ reduce
 
 Al final del dia realice la homework JSI y JSII se puede ver una copia de la misma en la carpeta 
 "SoyHenryPre"
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 termino el dia con un repaso de todo lo visto y aun mas conceptos:
 
 Lectura anexa que nos proporciono henry que repasa los visto en JSIII Y JSIV
 
-Manejo de ArrayList con Javascript - pop, push, shift, unshift: https://www.youtube.com/watch?v=zWuGZfFe9bQ
+pop, push, shift, unshift
 
 VAR vs LET vs CONST: TODAS LAS DIFERENCIAS | JS en ESPAÑOL: https://www.youtube.com/watch?v=ojrvxYcKeYg
 
@@ -153,6 +154,16 @@ for: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statement
 JavaScript for Beginners #8 - Switch Statements: https://www.youtube.com/watch?v=xDY1TTM9sGs
 
 Curso de Javascript - 1.20. Condicionales. Sentencia switch: https://www.youtube.com/watch?v=joLH5qG7y-0
+
+JavaScript Ejercicio: 1012 Usar Función join() para Unir con un Carácter los Elementos de un Arreglo: https://www.youtube.com/watch?v=KlfDORfhoSg
+
+What is an Index? | JavaScript in less-than 3 minutes | JavaScript Beginner Series: https://www.youtube.com/watch?v=eBX_4nMS7Mo
+
+String Method .charAt() and Index | JavaScript in less-than 3 minutes | JavaScript Beginner Series: https://www.youtube.com/watch?v=toxapqDktzA
+
+Curso JavaScript: 17. break & continue: https://www.youtube.com/watch?v=iv-f163m78A
+
+
 
 
 
