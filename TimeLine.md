@@ -63,13 +63,15 @@ Math | Operadores | Objetos Globales y métodos
 
 Introducción a las Funciones
 
+if...else
+
 Control de flujo y operadores de comparación
 
 Veracidad
 
 Operadores logicos && || !
 
-bucles for | while | while do | switch
+bucles for | while 
 
 Arguments
 
@@ -94,3 +96,67 @@ Ciclos en JavaScript {for, while, do .. while} 👍🏻: https://www.youtube.com
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dia 3 en soy henry (continuacion de bucles y arrays, Objetos)
 
+Arrays (Arreglos)
+
+.length
+
+.push | .pop
+
+.unshift y shift
+
+switch | do...while
+
+Expressions and operators
+
+.join 
+
+.toString
+
+.charAt
+
+break & continue
+
+.includes
+
+reduce
+
+Al final del dia realice la homework JSI y JSII se puede ver una copia de la misma en la carpeta 
+"SoyHenryPre"
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+termino el dia con un repaso de todo lo visto y aun mas conceptos:
+
+Lectura anexa que nos proporciono henry que repasa los visto en JSIII Y JSIV
+
+Manejo de ArrayList con Javascript - pop, push, shift, unshift: https://www.youtube.com/watch?v=zWuGZfFe9bQ
+
+VAR vs LET vs CONST: TODAS LAS DIFERENCIAS | JS en ESPAÑOL: https://www.youtube.com/watch?v=ojrvxYcKeYg
+
+VAR, LET o CONST: ¿CUÁL DEBERÍA USAR? | JS en Español: https://www.youtube.com/watch?v=bvkY9ey83yY
+
+Switch Statements - Beau teaches JavaScript: https://www.youtube.com/watch?v=fM5qnyasUYI
+
+switch: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/switch
+
+do...while: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/do...while
+
+Operators: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
+
+if...else: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+
+for: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+
+Array: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+for: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+
+JavaScript for Beginners #8 - Switch Statements: https://www.youtube.com/watch?v=xDY1TTM9sGs
+
+Curso de Javascript - 1.20. Condicionales. Sentencia switch: https://www.youtube.com/watch?v=joLH5qG7y-0
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------

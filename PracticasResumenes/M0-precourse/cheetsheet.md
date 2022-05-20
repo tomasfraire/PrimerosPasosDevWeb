@@ -114,3 +114,48 @@ function matriz(n, m) {
         i++;
     }
 }
+
+* Arrays (arreglos, listas, listas de listas, tablas de multiplicar)
+var array = [1, 2, 3, 4]
+
+var array2 = [1, tomas, 3, funcion(){console.log('hola')}, 2, [1, 2, 3, 4], null] 
+
+array [0] // 1
+
+array2 [4] // funcion(){console.log('hola')}
+
+function tablaDelSeis(){
+
+  var arrayMulti6 = []
+  for (var i = 0; i < 11; i++){
+    arrayMulti6.push(6*i);
+  }
+  return arrayMulti6;
+}
+
+array.length
+
+// asignar valor a un array: 
+ 
+var lista = [];
+
+lista[0] = "primer elemento"
+
+//los "huecos" que queden vacios sera undefined, eso sucede si "lista[3] = x" la array sera asi "['primer elemento', undefined, undefined, 'x']" y se vera asi "['primer elemento', <2 empty items>, 'x']"
+
+.push: resive un argumento y pone ese argumento en la ultima posicion de la array. 
+
+.pop: devuelve y Saca el ultimo elemento de la array. 
+
+Recoriendo una Array
+
+var lista = [1, 2, 3, 4, 5]
+        //   0, 1, 2, 3, 4 
+for( var i = 0; i < lista.length; i++){
+    console.log (lista[i]);
+}     
+
+while(lista.length > 0) {
+    console.log(lista.pop())
+}
+
