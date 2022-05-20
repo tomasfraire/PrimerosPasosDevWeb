@@ -3,9 +3,12 @@ Posterior a este Proyecto:
 
 Curso de dalto HTML y CSS y Curso de Desarollo Web en CoderHouse
 
+Disclamer: entendamos dia como un ciclo, ya que estos que estan aca abajo no corresponden si o si a dias seguidos como una semana, sino a dias en los que me sente a etudiar estos conceptos.
+Algunos duraron 17hrs con metodo pomodoro, otros 10hrs de corrido, otros 5hrs descase 3hrs y me puse deneuvo 3hrs y asi.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dia 1 en Soy Henry (intro al curso, git y github, conceptos principales de JS y logia de progrmacion)
+$hola$
 
 * Expressions vs Statements
 
@@ -214,6 +217,7 @@ Curso JavaScript: 12. Objetos https://www.youtube.com/watch?v=4xig5UPRC00
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dia 4 en soy henry (Clases y Prototype & Callbacks)
+
 
 Al final del dia realice la homework JSV y JSVI se puede ver una copia de la misma en la carpeta 
 "SoyHenryPre"
