@@ -8,14 +8,14 @@ Algunos duraron 17hrs con metodo pomodoro, otros 10hrs de corrido, otros 5hrs de
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dia 1 en Soy Henry (intro al curso, git y github, conceptos principales de JS y logia de progrmacion)
-$hola$
+
+# M.0 Prep Course
 
 * Expressions vs Statements
 
 * Expressions
 
 Siempre retorna algo
-
 
 * Aritmeticas (valor numerico)| Strings (valor string)| Logicas (valor booleano)| Primarias (expression sin operador, variables) | asignacion (a = b) | side effects (++a | ++a | a += b| a *= b | varios mas)
 
@@ -50,6 +50,8 @@ Mas de JavaScript: https://www.youtube.com/playlist?list=PLfWyZ8S-XzecAttp3QU-gB
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dia 2 en Soy Henry (Intriducion a JS)
+
+# M.0 Prep Course
 
 * Introducción a Javascript 
 
@@ -97,6 +99,8 @@ Ciclos en JavaScript {for, while, do .. while} 👍🏻: https://www.youtube.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dia 3 parte 1 en soy henry (continuacion de bucles y arrays)
+
+# M.0 Prep Course
 
 * Arrays (Arreglos)
 
@@ -173,6 +177,8 @@ includes Array Method | JavaScript Tutorial: https://www.youtube.com/watch?v=ZHs
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dia 3 parte 2 en soy henry (Objetos)
 
+# M.0 Prep Course
+
 * Repaso Array
 
 * Introducion a objetos, que son y para que sirven.
@@ -218,6 +224,8 @@ Curso JavaScript: 12. Objetos https://www.youtube.com/watch?v=4xig5UPRC00
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dia 4 en soy henry (Clases y Prototype & Callbacks)
 
+# M.0 Prep Course
+
 
 Al final del dia realice la homework JSV y JSVI se puede ver una copia de la misma en la carpeta 
 "SoyHenryPre"
@@ -230,6 +238,8 @@ Lectura anexa que nos proporciono henry que repasa los visto en JSV y JSVI
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dia 5 en soy henry (HTML Y CSS)
+
+# M.0 Prep Course
 
 
 
