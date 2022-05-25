@@ -7,7 +7,7 @@ Disclamer: entendamos dia como un ciclo, ya que estos que estan aca abajo no cor
 Algunos duraron 17hrs con metodo pomodoro, otros 10hrs de corrido, otros 5hrs descase 3hrs y me puse deneuvo 3hrs y asi.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Dia 1 en Soy Henry (intro al curso, git y github, conceptos principales de JS y logia de progrmacion)
+# Dia 1 en Soy Henry (intro al curso, git y github, conceptos principales de JS y logica de progrmacion)
 
 # M.0 Prep Course
 
@@ -219,12 +219,28 @@ Recorridos a las propiedades de objetos Javascript. Bucle for...in https://www.y
 
 Varios videos de esta lista de reprofucion: https://www.youtube.com/playlist?list=PL3aEngjGbYhnxiyLvZD3sy1sjdiNJETW8
 
-Curso JavaScript: 12. Objetos https://www.youtube.com/watch?v=4xig5UPRC00
+Curso JavaScript: 12. Objetos: https://www.youtube.com/watch?v=4xig5UPRC00
+
+MAP, FILTER y REDUCE EN JAVASCRIPT: https://www.youtube.com/watch?v=tP8JiVUiyDo
+
+La diferencia de usar forEach() y map() en javascript: https://www.youtube.com/watch?v=1R3hlqUMmk8
+
+Javascript - 3 formas de recorrer un array (para principiantes): https://www.youtube.com/watch?v=KpI5oat2ZoU
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dia 4 en soy henry (Clases y Prototype & Callbacks)
 
 # M.0 Prep Course
+
+* class e instanciacion pseudoclasica
+
+* this en las clases
+
+* prototype object.create objetct.assign
+
+* herencia clasica y herencia en JS
+
+* constructores anidados
 
 
 Al final del dia realice la homework JSV y JSVI se puede ver una copia de la misma en la carpeta 
@@ -235,6 +251,10 @@ Al final del dia realice la homework JSV y JSVI se puede ver una copia de la mis
 termino el dia con un repaso de todo lo visto y aun mas conceptos, algunso los reveo con disitntas personas e idiomas para aasegurarme que lo entiendo:
 
 Lectura anexa que nos proporciono henry que repasa los visto en JSV y JSVI
+
+Gracias A Daril el pato, por ayudarme a entender mas sobre javascript!!!
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dia 5 en soy henry (HTML Y CSS)
@@ -253,5 +273,23 @@ termino el dia con un repaso de todo lo visto y aun mas conceptos, algunso los r
 ademas en este dia, pude repasar lo visto en Coderhouse y en el curso de soy dalto.
 
 Lectura anexa que nos proporciono henry que repasa los visto en HTML y CSS
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Dia 6 Henry Challenge Dia final.
+
+# Henry Challenge
+
+Al final del dia Descanse viendo GOT, alfin, una semana muy intensa, no se si aprobare, el codigo funciona y los test automatiocs dan bien, si desapruebo se vuelve a intentar, si apruebo se sigue aprendiendo hasta el 20 de junio.🦾💪🦾💪
+
+Gracias A Daril el pato, por ayudarme a entender mas sobre javascript!!!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+termino el dia con una buena serie y un descanso, pero me vi estos videos que no son de JS pero si acerca de Soy Henry:
+
+¿Que piensan mis compañeros de Henry...... sobre Henry? #2 https://www.youtube.com/watch?v=kpOes0NrIfI
+
+¿Que piensan mis compañeros de Henry...... sobre Henry? https://www.youtube.com/watch?v=wKxNZh-g-Y8
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
