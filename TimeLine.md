@@ -276,7 +276,7 @@ Lectura anexa que nos proporciono henry que repasa los visto en HTML y CSS
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Dia 6 Henry Challenge Dia final.
+# Dia 6 Henry Challenge Dia final del prepcourse.
 
 # Henry Challenge
 
@@ -293,3 +293,49 @@ termino el dia con una buena serie y un descanso, pero me vi estos videos que no
 ¿Que piensan mis compañeros de Henry...... sobre Henry? https://www.youtube.com/watch?v=wKxNZh-g-Y8
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Dia 7, despues de 3 dias de descanso se vuelve con tarea de Coder House. (HTML Y CSS)
+
+* intro HTML
+
+* intro CSS
+
+* CSS, flexbox y grids
+
+* Animaciones
+
+* git y github para el projecto de coder
+
+* Media Q
+
+* mobile first
+
+Para la practica de hoy, intente realice un clone hibrido entre la pagina de CoderHouse, Soy henry y image campus.
+intente hacer un fondo animado, un mensaje animado que cambia una palbra, imagenes con hovers animados y el uso de grids para la galeria de imagenes. (tuve y tengo muchos porblemas habra que seguir practicando, es mi primera vez con grids gg)
+
+el projecto esta en otro repo, dejo el link: https://github.com/tomasfraire/TechBerry-TomasFraire
+
+pueden ver lo que anduve resumiendo o porbando en la carpeta de CoderHouse de este repo.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Material usado en el dia:
+
+Gradientes en CSS: La Guía Completa | Tendencias Web 2019: https://www.youtube.com/watch?v=m30frh3KzLU
+
+las porpias clases de Coder House
+
+CSS Grid vs Flexbox - Cuando usar uno u otro: https://www.youtube.com/watch?v=6qko7Nbe8YA
+
+Aprende CSS Grid Layout en 15 Minutos 📗: https://www.youtube.com/watch?v=-kgGATnsPbs
+
+lugar donde genera de forma sensilla patrones de css: https://heropatterns.com/
+
+Sitio para obtener imagenes de stock gratis de buena caldiad: https://unsplash.com/es
+
+Legacy Responsive Web Design: https://www.freecodecamp.org/learn/responsive-web-design/
+
+AlexCG Design: https://www.youtube.com/c/AlexCGDesign/playlists
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+El 20 de junio es decir en 20 dias (escribo esto el 31 de mayo del 2022), empiezo el bootcamp de henry, para ese dia deberia tener el certificado de CoderHouse, amplios conociemientos en HTML, CSS, BOOTSTRAP Y SASS,reforsar lo visto en el prep course de JS y curiosiar mas cosas de este mundo.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
