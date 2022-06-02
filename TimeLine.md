@@ -317,8 +317,7 @@ intente hacer un fondo animado, un mensaje animado que cambia una palbra, imagen
 
 el projecto esta en otro repo, dejo el link: https://github.com/tomasfraire/TechBerry-TomasFraire
 
-pueden ver lo que anduve resumiendo o porbando en la carpeta de CoderHouse de este repo.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+pueden ver lo que anduve resumiendo o porbando en la carpeta de CoderHouse de este repo.---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Material usado en el dia:
 
@@ -339,8 +338,7 @@ Legacy Responsive Web Design: https://www.freecodecamp.org/learn/responsive-web-
 AlexCG Design: https://www.youtube.com/c/AlexCGDesign/playlists
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-El 20 de junio es decir en 20 dias (escribo esto el 31 de mayo del 2022), empiezo el bootcamp de henry, para ese dia deberia tener el certificado de CoderHouse, amplios conociemientos en HTML, CSS, BOOTSTRAP Y SASS,reforsar lo visto en el prep course de JS y curiosiar mas cosas de este mundo.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+El 20 de junio es decir en 20 dias (escribo esto el 31 de mayo del 2022), empiezo el bootcamp de henry, para ese dia deberia tener el certificado de CoderHouse, amplios conociemientos en HTML, CSS, BOOTSTRAP Y SASS,reforsar lo visto en el prep course de JS y curiosiar mas cosas de este mundo.---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dia 8, Bootstrap.
 
@@ -351,3 +349,19 @@ El 20 de junio es decir en 20 dias (escribo esto el 31 de mayo del 2022), empiez
 * Bootstrap
 
 * Bootstrap maquetado de toda una pagina web
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Material usado en el dia:
+
+las porpias clases de Coder House 4 horas de Bootstrap
+
+Crea una Pagina WEB con BOOTSTRAP 5 desde 0 | Rapido: https://www.youtube.com/watch?v=A5MF1mwmgRI
+
+🔥7 NOVEDADES de BOOTSTRAP 5 🔥que te volarán LA CABEZA!: https://www.youtube.com/watch?v=-0FUUswVhG4
+
+7 RAZONES para usar BOOTSTRAP en tus Proyectos (QUE NO CONOCÍAS): https://www.youtube.com/watch?v=_1QYo_K6-5o
+
+Guia oficial de Bootstrap: https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
