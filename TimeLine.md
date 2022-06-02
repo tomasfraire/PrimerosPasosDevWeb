@@ -262,7 +262,6 @@ Gracias A Daril el pato, por ayudarme a entender mas sobre javascript!!!
 # M.0 Prep Course
 
 
-
 Al final del dia realice la homework CSS se puede ver una copia de la misma en la carpeta 
 "SoyHenryPre"
 
@@ -295,6 +294,8 @@ termino el dia con una buena serie y un descanso, pero me vi estos videos que no
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dia 7, despues de 3 dias de descanso se vuelve con tarea de Coder House. (HTML Y CSS)
 
+# Coder House, Curso de Desarollo web
+
 * intro HTML
 
 * intro CSS
@@ -305,7 +306,9 @@ termino el dia con una buena serie y un descanso, pero me vi estos videos que no
 
 * git y github para el projecto de coder
 
-* Media Q
+* intro a @Media
+
+* @Media y Pseudoclases
 
 * mobile first
 
@@ -339,3 +342,12 @@ AlexCG Design: https://www.youtube.com/c/AlexCGDesign/playlists
 El 20 de junio es decir en 20 dias (escribo esto el 31 de mayo del 2022), empiezo el bootcamp de henry, para ese dia deberia tener el certificado de CoderHouse, amplios conociemientos en HTML, CSS, BOOTSTRAP Y SASS,reforsar lo visto en el prep course de JS y curiosiar mas cosas de este mundo.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Dia 8, Bootstrap.
+
+# Coder House, Curso de Desarollo web
+
+* Frameworks y Librerias
+
+* Bootstrap
+
+* Bootstrap maquetado de toda una pagina web

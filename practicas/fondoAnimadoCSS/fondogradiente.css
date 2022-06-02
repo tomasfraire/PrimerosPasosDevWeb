@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    width: auto;
+    background-image: linear-gradient(100deg, #FF9E75, #E84F6B, #DC63FF, #331AE8, #1F93FF, #00fff7, #73e294, #c7ca7c);
+    background-size: 500%;
+    animation: anima 10s infinite;
+}
+
+
+.text{
+    color:whitesmoke;
+    text-align: center;
+    margin: 300px 0;
+    font-size: 2rem;
+}
+
+@keyframes anima {
+    0%{background-position: 0% 50%;}
+    50%{background-position: 100% 50%;}
+    100%{background-position: 0% 100%;}
+}
