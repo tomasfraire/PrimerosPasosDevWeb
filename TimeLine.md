@@ -312,7 +312,7 @@ termino el dia con una buena serie y un descanso, pero me vi estos videos que no
 
 * mobile first
 
-Para la practica de hoy, intente realice un clone hibrido entre la pagina de CoderHouse, Soy henry y image campus.
+Para la practica de hoy, intente realice un clon hibrido entre la pagina de CoderHouse, Soy henry y image campus.
 intente hacer un fondo animado, un mensaje animado que cambia una palbra, imagenes con hovers animados y el uso de grids para la galeria de imagenes. (tuve y tengo muchos porblemas habra que seguir practicando, es mi primera vez con grids gg)
 
 el projecto esta en otro repo, dejo el link: https://github.com/tomasfraire/TechBerry-TomasFraire
@@ -337,10 +337,12 @@ Legacy Responsive Web Design: https://www.freecodecamp.org/learn/responsive-web-
 
 AlexCG Design: https://www.youtube.com/c/AlexCGDesign/playlists
 
+Maquetado responsive con CSS Grid | Diseño adaptativo: https://www.youtube.com/watch?v=T4t00Hd3qZc
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 El 20 de junio es decir en 20 dias (escribo esto el 31 de mayo del 2022), empiezo el bootcamp de henry, para ese dia deberia tener el certificado de CoderHouse, amplios conociemientos en HTML, CSS, BOOTSTRAP Y SASS,reforsar lo visto en el prep course de JS y curiosiar mas cosas de este mundo.---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Dia 8, Bootstrap.
+# Dia 8/9 Bootstrap.
 
 # Coder House, Curso de Desarollo web
 
@@ -363,5 +365,31 @@ Crea una Pagina WEB con BOOTSTRAP 5 desde 0 | Rapido: https://www.youtube.com/wa
 7 RAZONES para usar BOOTSTRAP en tus Proyectos (QUE NO CONOCÍAS): https://www.youtube.com/watch?v=_1QYo_K6-5o
 
 Guia oficial de Bootstrap: https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
+Curso de Bootstrap 5 - Introducción al mejor framework de diseño web: https://www.youtube.com/watch?v=LYubk9RXENk
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Dia 10 Mas Bootstrap y Intro a SASS
+
+# Coder House, Curso de Desarollo web
+
+* Bootstrap con SASS
+
+* Intro a SASS
+
+* Proyecto entero en bootstrap 3 paginas, contenido relacionado y uso de SASS. segunda entrega de proyecto final.
+
+Para la practica de hoy, realice una pagina de un bar/pizzeria con Bootstrap, este es un desafio entregable de Coder House.
+Subire dos proyectos mas a mi github, todo repositorio que tenga CH en algun lado es parte del Curso de Coder House.
+
+dejo el link: https://github.com/tomasfraire
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Material usado en el dia:
+
+Clase de SASS de 1:30 de Coder House
+
+Curso: Fundamentos de Bootstrap 5 [ Sass incluido + Guía con códigos ]: https://www.youtube.com/watch?v=1kNwZbRiVcQ
+
+Bootstrap CSS Framework - Full Course for Beginners: https://www.youtube.com/watch?v=-qfEOE4vtxE
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------

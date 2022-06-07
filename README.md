@@ -9,3 +9,6 @@ Fuentes de infroamcion usadas e info:
 7) Marcelo Velasquez
 8) jonmircha
 9) Curso de Coder House (desarollo web)
+10) freeCodeCamp.org
+11) FalconMasters
+12) Fazt
